@@ -42,3 +42,6 @@
 
 ## Experiências de teste: 
 
+![SQL](./image.png)
+![SQL](./imagemsql)
+![SQL](./imagemsql2)
