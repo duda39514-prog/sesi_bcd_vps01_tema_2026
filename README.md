@@ -40,6 +40,15 @@
 | **Movimentação do Estoque** | Quantidade | Int | 11 | Quantidade do Produto |
 | **Movimentação do Estoque** | Data | Date | - | Data que o produto foi comprado |
 
+## Dados no CSV:
+
+- [Categoria.csv](./Categoria.csv)
+- [Movimentação de Estoque.csv](./Movimentação_estoque.csv)
+- [Produto.csv](./Produto.csv)
+- [Estoque.csv](./estoque.csv)
+- [Fornecedor.csv](./fornecedor.csv)
+
+
 ## Experiências de teste: 
 
 ![SQL](./image.png)
