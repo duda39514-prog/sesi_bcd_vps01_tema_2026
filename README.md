@@ -9,6 +9,9 @@
 - Dicionário de dados
 - CSV
 
+## Atividade MER e DER
+![Mer_der](./MER_DER.drawio.png)
+
 ## Dicionário de Dados
 
 | Entidades | Atributos | Tipo | Tamanho | Descrição |
