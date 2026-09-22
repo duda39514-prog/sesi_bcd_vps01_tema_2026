@@ -11,7 +11,8 @@
 
 ## Dicionário de Dados
 
-Entidades,Atributos,Tipo,Tamanho,Descrição
+```
+|Entidades|Atributos|Tipo|Tamanho|Descrição|
 Produto,ID,Int,11,Chave Primária
 Produto,Nome,Varchar,100,Nome do produto
 Produto,Descrição,Varchar,80,Descrição do produto
@@ -38,3 +39,4 @@ Movimentação do Estoque,ID_produto,int,11,Chave Estrangeira
 Movimentação do Estoque,Tipo,Enum,Se o produto é ENTRADA ou SAIDA
 Movimentação do Estoque,Quantidade,int,11,Quantidade do Produto
 Movimentação do Estoque,Data,Date,Data que o produto foi comprado
+````
