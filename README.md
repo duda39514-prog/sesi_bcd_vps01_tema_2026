@@ -45,11 +45,11 @@
 
 ## Dados no CSV:
 
-- [Categoria.csv](./Categoria.csv)
-- [Movimentação de Estoque.csv](./Movimentação_estoque.csv)
-- [Produto.csv](./Produto.csv)
-- [Estoque.csv](./estoque.csv)
-- [Fornecedor.csv](./fornecedor.csv)
+- [Categoria.csv](./Categoria.CSV)
+- [Movimentação de Estoque.csv](./Movimentação_estoque.CSV)
+- [Produto.csv](./Produto.CSV)
+- [Estoque.csv](./estoque.CSV)
+- [Fornecedor.csv](./fornecedor.CSV)
 
 
 ## Experiências de teste: 
