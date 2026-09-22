@@ -39,3 +39,6 @@
 | **Movimentação do Estoque** | Tipo | Enum | - | Se o produto é ENTRADA ou SAIDA |
 | **Movimentação do Estoque** | Quantidade | Int | 11 | Quantidade do Produto |
 | **Movimentação do Estoque** | Data | Date | - | Data que o produto foi comprado |
+
+## Experiências de teste: 
+
